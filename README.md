@@ -1,4 +1,4 @@
-## Belajar HTML
+## Rabu - Belajar HTML
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
@@ -15,7 +15,7 @@ Tugas :
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
 
-## Selasa - Menguasai HTML dan Mengenal CSS
+## Kamis - Menguasai HTML dan Mengenal CSS
 
 Materi & Referensi :
 - :notebook_with_decorative_cover:
